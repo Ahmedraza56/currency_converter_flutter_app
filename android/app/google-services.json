@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295425507092",
+    "firebase_url": "https://currencyconvertor-fceec-default-rtdb.firebaseio.com",
+    "project_id": "currencyconvertor-fceec",
+    "storage_bucket": "currencyconvertor-fceec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295425507092:android:f6c1df589ea2b4b7ffcc01",
+        "android_client_info": {
+          "package_name": "com.ah.currency_convertor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOacagKe3lPA5u8G3YyiS-_YjIHiua-2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
