@@ -1,7 +1,6 @@
-![Alt text](profie.png) ![Alt text](signup.png) ![Alt text](splash.png)
-
-
 # Currency Converter Flutter App
+
+![Profile](profie.png) ![Signup](signup.png) ![Splash](splash.png)
 
 The Currency Converter Flutter App is a simple yet powerful mobile application designed to help users convert currencies effortlessly. Built using the Flutter framework, this app leverages an Exchange Rate API to provide real-time and accurate currency conversion rates.
 
@@ -25,5 +24,3 @@ Keeps track of conversion history for easy reference.
 ## Demo
 
 Check out the app in action: [Currency Converter App Demo Video](https://www.mediafire.com/file/036fejz78rpip4x/currencyconverter.mp4/file)
-
-
