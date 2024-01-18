@@ -1,6 +1,6 @@
 # Currency Converter Flutter App
 
-<img src="splash.png" alt="Splash"  width="145" height="210">  <img src="signup.png" alt="Signup"  width="140" height="200"> <img src="login.png" alt="login"  width="140" height="200"> <img src="profie.png" alt="profie"  width="140" height="200"> <img src="currencyfrom.png" alt="currencyfrom"  width="140" height="200"> <img src="currencyto.png" alt="currencyto"  width="140" height="200"> <img src="converter.png" alt="converter" width="140" height="200"> <img src="currencylist.png" alt="currencylist"  width="140" height="200"> <img src="currencyhistory.png" alt="currencyhistory" width="140" height="200"> 
+<img src="splash.png" alt="Splash"  width="145" height="220">  <img src="signup.png" alt="Signup"  width="145" height="220"> <img src="login.png" alt="login"  width="145" height="220"> <img src="profie.png" alt="profie"  width="145" height="220"> <img src="currencyfrom.png" alt="currencyfrom"  width="145" height="220"> <img src="currencyto.png" alt="currencyto"  width="145" height="220"> <img src="converter.png" alt="converter" width="145" height="220"> <img src="currencylist.png" alt="currencylist"  width="145" height="220"> <img src="currencyhistory.png" alt="currencyhistory" width="145" height="220"> 
 
 The Currency Converter Flutter App is a simple yet powerful mobile application designed to help users convert currencies effortlessly. Built using the Flutter framework, this app leverages an Exchange Rate API to provide real-time and accurate currency conversion rates.
 
