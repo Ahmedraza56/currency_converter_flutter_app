@@ -1,3 +1,5 @@
+![Animated GIF example](currencyconverter.mp4)
+
 Currency Converter Flutter App
 
 
