@@ -29,3 +29,8 @@ Keeps track of conversion history for easy reference.
 ## Demo
 
 Check out the app in action: [Currency Converter App Demo Video](https://www.mediafire.com/file/036fejz78rpip4x/currencyconverter.mp4/file)
+
+
+<a href="link_to_your_downloadable_file" download>
+  <img src="https://example.com/your_button_image.png" alt="Download" width="200"/>
+</a>
