@@ -30,4 +30,6 @@ Keeps track of conversion history for easy reference.
 
 Check out the app in action: [Currency Converter App Demo Video](https://www.mediafire.com/file/036fejz78rpip4x/currencyconverter.mp4/file)
 
-<a href="" download>Click here to Download apk.</a>
+## Dowmload Apk file
+
+<a href="" download>Download apk.</a>
