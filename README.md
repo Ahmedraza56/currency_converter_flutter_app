@@ -32,4 +32,4 @@ Check out the app in action: [Currency Converter App Demo Video](https://www.med
 
 ## Download Apk file
 
-[Download apk](app-release.apk)
+[Download apk](https://github.com/Ahmedraza56/currency_converter_flutter_app/raw/main/app-release.apk)
