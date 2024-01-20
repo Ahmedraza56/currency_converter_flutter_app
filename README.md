@@ -28,7 +28,7 @@ Keeps track of conversion history for easy reference.
 
 ## Demo
 
-Check out the app in action: [Currency Converter App Demo Video](https://www.mediafire.com/file/036fejz78rpip4x/currencyconverter.mp4/file)
+Check out the app in action: [Currency Converter App Demo Video](https://github.com/Ahmedraza56/currency_converter_flutter_app/raw/main/currencyconverter.mp4)
 
 ## Download Apk file
 
